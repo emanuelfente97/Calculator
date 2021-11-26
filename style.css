@@ -1,0 +1,66 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #aa541b;
+  }
+
+
+
+  .btn {
+    height: 50px;
+    border: none;
+  }
+
+  .calculator{
+    text-align: center;
+    width: 300px;
+    height: 360px;
+    border-radius: none;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-color: red;
+    padding: 5px;
+  }
+
+  .buttons {
+    width: 275px;
+    text-align: center;
+    margin:10px auto;
+    color: green;
+    background-color: yellow;
+  }
+
+  .btn{
+    float: left;
+    margin: 2px;
+    width: 64.75px;
+    color: black;
+    background: rgb(40, 40, 146);
+    cursor: pointer;
+    border-radius: 60px;
+  }
+
+  .textbox {
+    margin-top: 10px;
+    text-align: right;
+    border: 1px solid snow;
+    border-radius: 5px;
+    height: 50px;
+    width: 275px;
+    background-color: #1f1e1e;
+    color: rgb(107, 8, 8);
+    margin-left: 10px;
+  }
+  .clrbtn{
+    width: 275px;
+    text-align: center;
+    margin:10px auto;
+    color: #7c7b79;
+    background: green;
+    border-radius: 50%;
+    cursor: pointer;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+  }
